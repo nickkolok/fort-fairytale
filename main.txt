@@ -743,7 +743,10 @@
  - ...а завтра ещё раз всё обдумываешь и докладываешь. Такие вещи ночами не делаются! 
 
 
-
+/*
+дердекенкапитейненхетлаастелидвандебеманнингомтестервенваноудердом...
+derdeckenkapiteinenhet laatste lid van de bemanning om te sterven van ouderdom en dood. Het schip is niet besmet is door een bekende ziekte
+*/
 
 
 
