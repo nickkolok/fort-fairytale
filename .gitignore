@@ -1,2 +1,7 @@
 *~
 .goutputstream-*
+
+*.aux
+*.toc
+*.log
+*.pdf
