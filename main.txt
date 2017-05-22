@@ -41,8 +41,9 @@
 и вдруг всё пришло в движение.
 
 
-
-\input{chapters/Nakamoto_draft}
+\begin{achronic}
+	\input{chapters/Nakamoto_draft}
+\end{achronic}
 
 \input{chapters/bezopasnik_ischet_sharhi}
 
