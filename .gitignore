@@ -5,3 +5,5 @@
 *.toc
 *.log
 *.pdf
+
+nohup.out
