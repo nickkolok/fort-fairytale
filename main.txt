@@ -6,15 +6,23 @@
 
 \input{chapters/pervoe_utro_Catrin}
 
-\input{chapters/Catrin_mama_i_zadachki}
+%\input{chapters/Catrin_mama_i_zadachki}
 
-\input{chapters/Catrin_uznala_Linux}
+/*Слот под антиутопическую зарисовку*/
+\emptypar
+
+%\input{chapters/Catrin_uznala_Linux}
+
 
 \input{chapters/Catrin_poluchaet_cel}
 
 \input{chapters/Catrin_znakomitsya_s_Lindariel}
 
+\begin{achronic}
 \input{chapters/pribytie_Fosseta}
+\end{achronic}
+
+\input{chapters/Lindariel_pokazyvaet_Fosseta_Catrin}
 
 \input{chapters/Catrin_uznaet_pro_portaly_i_hash}
 
@@ -50,7 +58,12 @@
 
 \input{chapters/Catrin_i_Gromostonko_na_elke}
 
+\input{chapters/pesec_corporativ}
+
+
+\begin{achronic}
 \input{chapters/Exuperi_i_Gollandec}
+\end{achronic}
 
 \input{chapters/volk_i_trolleybus}
 

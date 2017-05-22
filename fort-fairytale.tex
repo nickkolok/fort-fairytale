@@ -27,6 +27,23 @@
 \renewcommand{\theenumiii}{.\arabic{enumiii}}% Меняем везде перечисления на цифра.цифра
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}% Меняем везде перечисления на цифра.цифра
 
+\newcommand{\commentize}[1]{}
+
+\usepackage{mdframed}
+\newmdenv[
+  topline=false,
+  bottomline=false,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+\newmdenv[
+  topline=false,
+  bottomline=false,
+  leftline=false,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{achronic}
+
 
 \begin{document}
 %\input{DiplomProject-Title}% это титульный лист
