@@ -28,6 +28,8 @@
 
 \input{chapters/otkaz_oborotnya}
 
+\input{chapters/sovet_portaly.tex}
+
 \input{chapters/pervyi_experiment_c_ognem_i_posohom}
 
 \input{chapters/evakuatsiya_Gromostonko}
